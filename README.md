@@ -19,7 +19,7 @@ see how to use and clone this tool.
 pkg install git
 pkg install python
 pip install mechanize
-git clone 
+git clone https://github.com/Ghsjulian/__Attack__.git
 cd Attack
 python __ghs__.py 
 
